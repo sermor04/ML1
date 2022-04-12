@@ -1,2 +1,4 @@
 #Ignora los archivos csv
 *.csv
+#Ignora los de Mac
+.DS_Store
